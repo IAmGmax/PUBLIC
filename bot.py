@@ -332,7 +332,7 @@ def handle_attack_command(message):
     user_id = message.from_user.id
     chat_id = message.chat.id
     markup = types.InlineKeyboardMarkup()
-    button1 = types.InlineKeyboardButton(text="🔥 𝗔𝗽𝗽𝗿𝗼𝘃𝗲 𝗡𝗼𝘄 𝗡𝗼𝘄 🔥", url="https://t.me/hostile_here" "https://t.me/hostile_here")
+    button1 = types.InlineKeyboardButton(text="🔥 𝗔𝗽𝗽𝗿𝗼𝘃𝗲 𝗡𝗼𝘄 𝗡𝗼𝘄 🔥", url="https://t.me/hostile_here" "https://t.me/IAmGmax")
     button2 = types.InlineKeyboardButton(text="💰 𝗮𝗻𝗱 𝗣𝗿𝗶𝗰𝗲 𝗟𝗶𝘀𝘁 𝗛𝗲𝗿𝗲 💰", url="https://t.me/c/1552878741/5233" "https://t.me/c/1217278405/5233")
     markup.add(button1)
     markup.add(button2)
