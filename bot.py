@@ -19,7 +19,7 @@ import psutil
 loop = asyncio.new_event_loop()
 asyncio.set_event_loop(loop)
 
-TOKEN = '7391939990:AAElku6yN3rq0pTJztwrRWOJbadLV9NWEyg'
+TOKEN = '7749520841:AAHsp5vE2art-OqqDygdGGaGD1NINwgU9E0'
 MONGO_URI = 'mongodb+srv://Cluster0:Cluster0@cluster0.5mvg9ej.mongodb.net/danger?retryWrites=true&w=majority'
 FORWARD_CHANNEL_ID = -1002175079890
 CHANNEL_ID = -1002175079890
